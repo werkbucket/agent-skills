@@ -1,0 +1,12 @@
+{
+  "name": "werkbucket",
+  "owner": {"name": "McGary Labs"},
+  "plugins": [
+    {
+      "name": "werkbucket",
+      "description": "Publish files and folders to shareable werkbucket URLs",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}
